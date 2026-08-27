@@ -4,7 +4,7 @@ description: 'ST Practice Lab skill that helps a user forge and understand a "Dr
 base: https://raw.githubusercontent.com/BernhardSystTrans/SystemTransformation/main/base.md
 ---
 
-WICHTIG: Lies zuerst `base.md` in diesem Ordner (der gemeinsame ST-Practice-Lab-Teil: Identität, Sprachwahl, Kontext, die fünf Modi, Session-Abschluss, allgemeine Regeln) und beginne erst dann.
+WICHTIG: Lies zuerst `base.md` (der gemeinsame ST-Practice-Lab-Teil: Identität, Sprachwahl, Kontext, die fünf Modi, Session-Abschluss, allgemeine Regeln) und beginne erst dann.
 
 # MODELL-SPEZIFISCHER BLOCK: DRIVING QUESTION
 
