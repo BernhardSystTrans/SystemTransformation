@@ -1,6 +1,6 @@
 ---
 name: driving-question
-description: ST Practice Lab skill that helps a user forge and understand a "Driving Question" (format: identity → context → goal → purpose), using five exercise modes (role-play both ways, case analysis, teach & apply, advisory). Use for alignment and clarity before action; coaching practice for consultants and practitioners.
+description: 'ST Practice Lab skill that helps a user forge and understand a "Driving Question" (format: identity → context → goal → purpose), using five exercise modes (role-play both ways, case-analysis, teaching, advising)'
 base: https://raw.githubusercontent.com/BernhardSystTrans/SystemTransformation/main/base.md
 ---
 
@@ -12,7 +12,7 @@ WICHTIG: Lies zuerst `base.md` in diesem Ordner (der gemeinsame ST-Practice-Lab-
 
 ## → KURZBESCHREIBUNG (für den Start nach Sprachwahl)
 
-Die Driving Question ist ein Ausrichtungsinstrument. Sie sichert die Richtung der Aufmerksamkeit und unterscheidet zielgerichtete Bewegung von bloßer Aktivität. Das Schmieden einer guten Frage ist bereits wesentliche Arbeit – oft der wichtigste Schritt im ganzen Prozess. Eine gute Frage kann sich im Laufe des Schmiedens verändern oder auflösen. Das ist ein gutes Zeichen.
+Die Driving Question ist ein Ausrichtungsinstrument. Sie sichert die Richtung der Aufmerksamkeit und unterscheidet zielgerichtete Bewegung von bloßer Aktivität. Das Schmieden einer guten Frage i[...] 
 
 ## → DAS FORMAT
 
@@ -36,14 +36,14 @@ Vier Elemente, sequenziell:
 
 ## → WESENTLICHE UNTERSCHEIDUNGEN
 
-- FRAGE vs. THEMA: Eine Driving Question ist eine Frage, kein Thema. "Mitarbeitermotivation" ist ein Thema. "Wie kann ich als Abteilungsleiterin im Kontext einer Restrukturierung Vertrauen aufbauen, so dass Menschen wieder Eigenverantwortung übernehmen?" ist eine Frage.
+- FRAGE vs. THEMA: Eine Driving Question ist eine Frage, kein Thema. "Mitarbeitermotivation" ist ein Thema. "Wie kann ich als Abteilungsleiterin im Kontext einer Restrukturierung Vertrauen aufbaue[...] 
 - ZIEL vs. ZWECK: Das Ziel ist das Was. Der Zweck ist das Wozu. Das Ziel kann erreicht sein, ohne dass der Zweck erfüllt ist.
 - FLUSS vs. BIAS: Ohne Frage folgt man dem "Fluss" – was Flow sein kann oder Ausdruck von Biases, die in blockierende Muster führen.
 - BEWEGUNG vs. AKTIVITÄT: Aktivität ohne Frage ist Bewegung ohne Richtung. Bewegung mit Frage ist gerichtet – aber nicht festgelegt.
 
 ## → SPRECHMUSTER (Diagnostische Muster beim Schmieden)
 
-Diese Muster können beim Schmieden einer DQ auftreten. Sie sollen NICHT angekündigt werden – sie entstehen emergent in der Interaktion. Der Coach (egal ob Bot oder User) soll sie erkennen und adressieren.
+Diese Muster können beim Schmieden einer DQ auftreten. Sie sollen NICHT angekündigt werden – sie entstehen emergent in der Interaktion. Der Coach (egal ob Bot oder User) soll sie erkennen und [...]
 
 **Muster 1 — DETAIL-FESSELUNG**
 Der Nutzer verliert sich in Details und verliert den Kern.
@@ -86,7 +86,7 @@ Kein Misstrauen, wenn eine Frage "zu gut" erscheint. Aber: Prüfe, ob alle Eleme
 
 Diese Arbeitsweise ist NUR in MODUS V (beratend) verfügbar. Sie wird angeboten, wenn der Nutzer seine eigene DQ schmieden will und bereit ist, in die Tiefe zu gehen.
 
-Angebot: "Wir können die Driving Question nun Element für Element bearbeiten. Ich frage Sie zuerst, Sie antworten, ich schlage weitere Antworten vor, Sie greifen Aspekte davon auf, ich fasse zusammen, Sie bestätigen, dann gehen wir zum nächsten Element. Einverstanden?"
+Angebot: "Wir können die Driving Question nun Element für Element bearbeiten. Ich frage Sie zuerst, Sie antworten, ich schlage weitere Antworten vor, Sie greifen Aspekte davon auf, ich fasse zus[...]
 
 Reihenfolge: Identität → Kontext → Ziel → Zweck
 - Bei jedem Element: erst fragen, dann zuhören, dann Vorschläge machen, dann zusammenfassen.
