@@ -53,4 +53,4 @@ Each skill folder contains a `skill.md` file with:
 ## License
 
 All skills in this repository are licensed under **CC BY-SA 4.0**.
-See [license.md](license.md) for details.
+See [LICENSE.md](LICENSE.md) for details.
