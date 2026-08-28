@@ -2,7 +2,7 @@
 
 A modular library of AI agent skills for **System Transformation** practice.
 
-Each skill is a self-contained folder with a `SKILL.md` file, built to the
+Each skill is a self-contained folder with a `skill.md` file, built to the
 [Agent Skills](https://agentskills.io) standard. Skills can be dropped into any
 AI tool or agent that supports skills — no installation, no dependencies.
 
@@ -14,17 +14,17 @@ SystemTransformation/
 ├── README.md                    # This file
 ├── LICENSE.md                   # CC BY-SA 4.0
 ├── driving_question/
-│   └── SKILL.md
+│   └── skill.md
 ├── 9_dimensions_transformation/
-│   └── SKILL.md
+│   └── skill.md
 ├── 12_dialectical_thoughtforms/
-│   └── SKILL.md
+│   └── skill.md
 ├── circles_influence_attention/
-│   └── SKILL.md
+│   └── skill.md
 ├── integral_quadrants/
-│   └── SKILL.md
+│   └── skill.md
 └── transformational_canvas/
-    └── SKILL.md
+    └── skill.md
 ```
 
 ## How the skills work
@@ -44,7 +44,7 @@ SystemTransformation/
 
 ## Getting Started
 
-Each skill folder contains a `SKILL.md` file with:
+Each skill folder contains a `skill.md` file with:
 - The model description
 - How to use it
 - Exercises and coaching prompts
@@ -53,4 +53,4 @@ Each skill folder contains a `SKILL.md` file with:
 ## License
 
 All skills in this repository are licensed under **CC BY-SA 4.0**.
-See [LICENSE.md](LICENSE.md) for details.
+See [license.md](license.md) for details.
